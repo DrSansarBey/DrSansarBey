@@ -1,3 +1,6 @@
+# 👋 About Me
+I'm founder of 1851 and Candy Development, i'm interested in making bots and i share the projects i do.
+
 <div align="center">
 <a href="https://discord.com/users/785196140298764350" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/785196140298764350"></a>
 </div>
